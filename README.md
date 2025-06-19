@@ -1,5 +1,4 @@
 # New Project 
 
  This is the pallavi bhagat 
- this is my first project idea
- 
+ this is my first project idea.
